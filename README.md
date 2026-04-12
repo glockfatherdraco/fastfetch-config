@@ -29,7 +29,7 @@
 # Config Installation
 __Linux/macOS__
 ```bash
-curl -fsSL https://raw.githubusercontent.com/GlockFatherDraco/fastfetch-config/refs/heads/main/config.jsonc -o ~/.config/fastfetch/config.jsonc
+mkdir -p ~/.config/fastfetch && curl -fsSL https://raw.githubusercontent.com/GlockFatherDraco/fastfetch-config/refs/heads/main/config.jsonc -o ~/.config/fastfetch/config.jsonc
 ```
 
 </div>
