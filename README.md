@@ -44,8 +44,7 @@
 
 
 ```bash
-__Linux/macOS__
-mkdir -p ~/.config/fastfetch && curl -fsSL [https://raw.githubusercontent.com/GlockFatherDraco/fastfetch-config/refs/heads/main/config.jsonc](https://raw.githubusercontent.com/GlockFatherDraco/fastfetch-config/refs/heads/main/config.jsonc) -o ~/.config/fastfetch/config.jsonc
+mkdir -p ~/.config/fastfetch && curl -fsSL [https://raw.githubusercontent.com/glockfatherdraco/fastfetch-config/refs/heads/main/config.jsonc](https://raw.githubusercontent.com/glockfatherdraco/fastfetch-config/refs/heads/main/config.jsonc) -o ~/.config/fastfetch/config.jsonc
 ```
 
 <div align="center">
