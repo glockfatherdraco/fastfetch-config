@@ -2,19 +2,30 @@
 
 # [fastfetch](https://github.com/fastfetch-cli/fastfetch) config
 
-*Clean and minimal terminal*
+*Clean and minimal terminal layout*
+
+<br />
+
+[![Last Commit](https://img.shields.io/github/last-commit/GlockFatherDraco/fastfetch-config?style=flat-square)](https://github.com/GlockFatherDraco/fastfetch-config/commits/main)
 
 </div>
 
+<div align="center">
+
+## Requirements
+
+* **Font:** [Fira Mono Font](https://fonts.google.com/specimen/Fira+Mono)
+
+</div>
 
 <div align="center">
 
-# Preview
+## Preview
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/GlockFatherDraco/fastfetch-config/blob/main/assets/linux-preview.png" width="400" />
+      <img src="https://github.com/GlockFatherDraco/fastfetch-config/blob/main/assets/linux-preview.png" width="400" alt="Linux Preview" />
       <br />
       <em>Linux</em>
     </td>
@@ -23,23 +34,13 @@
 
 </div>
 
+---
 
 <div align="center">
 
-# Config Installation
-__Linux/macOS__
+## Installation
+
+**Linux / macOS**
+
 ```bash
-mkdir -p ~/.config/fastfetch && curl -fsSL https://raw.githubusercontent.com/GlockFatherDraco/fastfetch-config/refs/heads/main/config.jsonc -o ~/.config/fastfetch/config.jsonc
-```
-
-</div>
-
-
-<div align="center">
-
-# Credits
-
-This config is a modified version of  
-[dacrab's fastfetch config](https://github.com/dacrab/fastfetch-config)
-
-</div>
+mkdir -p ~/.config/fastfetch && curl -fsSL [https://raw.githubusercontent.com/GlockFatherDraco/fastfetch-config/refs/heads/main/config.jsonc](https://raw.githubusercontent.com/GlockFatherDraco/fastfetch-config/refs/heads/main/config.jsonc) -o ~/.config/fastfetch/config.jsonc
