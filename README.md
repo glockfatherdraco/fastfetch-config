@@ -16,7 +16,7 @@
 
 </div>
 
-* **Font:** [Fira Mono Font](https://fonts.google.com/specimen/Fira+Mono)
+* **Font:** [Fira Mono Font](https://fonts.google.com/specimen/Fira+Mono) for the terminal
 
 </div>
 
