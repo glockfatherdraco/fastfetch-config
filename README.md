@@ -46,3 +46,11 @@
 
 ```bash
 mkdir -p ~/.config/fastfetch && curl -fsSL [https://raw.githubusercontent.com/GlockFatherDraco/fastfetch-config/refs/heads/main/config.jsonc](https://raw.githubusercontent.com/GlockFatherDraco/fastfetch-config/refs/heads/main/config.jsonc) -o ~/.config/fastfetch/config.jsonc
+```
+
+<div align="center">
+
+# Credits
+
+This config is a modified version of  
+[dacrab's fastfetch config](https://github.com/dacrab/fastfetch-config)
