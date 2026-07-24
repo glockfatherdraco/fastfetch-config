@@ -42,8 +42,9 @@
 
 ## Installation
 
-__Linux/macOS__
+
 ```bash
+__Linux/macOS__
 mkdir -p ~/.config/fastfetch && curl -fsSL [https://raw.githubusercontent.com/GlockFatherDraco/fastfetch-config/refs/heads/main/config.jsonc](https://raw.githubusercontent.com/GlockFatherDraco/fastfetch-config/refs/heads/main/config.jsonc) -o ~/.config/fastfetch/config.jsonc
 ```
 
