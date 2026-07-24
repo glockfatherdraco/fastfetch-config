@@ -14,6 +14,8 @@
 
 ## Requirements
 
+</div>
+
 * **Font:** [Fira Mono Font](https://fonts.google.com/specimen/Fira+Mono)
 
 </div>
