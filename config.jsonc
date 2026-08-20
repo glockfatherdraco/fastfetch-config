@@ -13,7 +13,7 @@
   "modules": [
     {
       "type": "title",
-      "format": "{#1}┌───────────── {#}{user-name-colored}"
+      "format": "{#1}┌───────────── {#}{user-name-colored}{#1}@{host-name-colored}"
     },
     {
       "type": "custom",
@@ -21,19 +21,19 @@
     },
     {
       "type": "os",
-      "key": "{#separator}│  {#keys}OS"
+      "key": "{#1}│  {#keys}OS          "
     },
     {
       "type": "kernel",
-      "key": "{#separator}│  {#keys}Kernel"
+      "key": "{#1}│  {#keys}Kernel      "
     },
     {
       "type": "uptime",
-      "key": "{#separator}│  {#keys}Uptime"
+      "key": "{#1}│  {#keys}Uptime      "
     },
     {
       "type": "packages",
-      "key": "{#separator}│  {#keys}Packages",
+      "key": "{#1}│  {#keys}Packages    ",
       "format": "{all}"
     },
     {
@@ -46,27 +46,31 @@
     },
     {
       "type": "de",
-      "key": "{#separator}│  {#keys}DE"
+      "key": "{#1}│  {#keys}DE          "
     },
     {
       "type": "wm",
-      "key": "{#separator}│  {#keys}WM"
+      "key": "{#1}│  {#keys}WM          "
     },
     {
       "type": "wmtheme",
-      "key": "{#separator}│  {#keys}Theme"
+      "key": "{#1}│  {#keys}Theme       "
     },
     {
       "type": "display",
-      "key": "{#separator}│  {#keys}Resolution"
+      "key": "{#1}│  {#keys}Resolution  "
     },
     {
       "type": "shell",
-      "key": "{#separator}│  {#keys}Shell"
+      "key": "{#1}│  {#keys}Shell       "
+    },
+    {
+      "type": "terminal",
+      "key": "{#1}│  {#keys}Terminal    "
     },
     {
       "type": "terminalfont",
-      "key": "{#separator}│  {#keys}Font"
+      "key": "{#1}│  {#keys}Font        "
     },
     {
       "type": "custom",
@@ -78,19 +82,19 @@
     },
     {
       "type": "cpu",
-      "key": "{#separator}│  {#keys}CPU"
+      "key": "{#1}│  {#keys}CPU         "
     },
     {
       "type": "gpu",
-      "key": "{#separator}│  {#keys}GPU"
+      "key": "{#1}│  {#keys}GPU         "
     },
     {
       "type": "memory",
-      "key": "{#separator}│  {#keys}Memory"
+      "key": "{#1}│  {#keys}Memory      "
     },
     {
       "type": "disk",
-      "key": "{#separator}│  {#keys}Disk (/)",
+      "key": "{#1}│  {#keys}Disk (/)    ",
       "folders": "/"
     },
     {
@@ -99,7 +103,7 @@
     },
     {
       "type": "colors",
-      "key": "{#separator}│",
+      "key": "{#1}│             ",
       "symbol": "diamond"
     },
     {
