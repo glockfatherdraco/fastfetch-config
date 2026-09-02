@@ -17,7 +17,7 @@
 </div>
 
 * **Package:** [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
-* **Font:** [Nerd Font]([https://fonts.google.com/specimen/Fira+Mono](https://www.nerdfonts.com/)) for the terminal
+* **Font:**    [Nerd Font](https://www.nerdfonts.com/) for the terminal
 
 </div>
 
