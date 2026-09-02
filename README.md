@@ -16,7 +16,8 @@
 
 </div>
 
-* **Font:** [Fira Mono Font](https://fonts.google.com/specimen/Fira+Mono) for the terminal
+* **Package:** [Fastfetch](https://github.com/fastfetch-cli/fastfetch)
+* **Font:** [Nerd Font]([https://fonts.google.com/specimen/Fira+Mono](https://www.nerdfonts.com/)) for the terminal
 
 </div>
 
