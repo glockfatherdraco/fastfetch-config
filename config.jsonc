@@ -21,19 +21,19 @@
     },
     {
       "type": "os",
-      "key": "{#1}│  {#keys}OS          "
+      "key": "{#1}│  {#keys}󰍹 OS          "
     },
     {
       "type": "kernel",
-      "key": "{#1}│  {#keys}Kernel      "
+      "key": "{#1}│  {#keys}󰒋 Kernel      "
     },
     {
       "type": "uptime",
-      "key": "{#1}│  {#keys}Uptime      "
+      "key": "{#1}│  {#keys}󰅐 Uptime      "
     },
     {
       "type": "packages",
-      "key": "{#1}│  {#keys}Packages    ",
+      "key": "{#1}│  {#keys}󰏖 Packages    ",
       "format": "{all}"
     },
     {
@@ -46,31 +46,31 @@
     },
     {
       "type": "de",
-      "key": "{#1}│  {#keys}DE          "
+      "key": "{#1}│  {#keys}󰧨 DE          "
     },
     {
       "type": "wm",
-      "key": "{#1}│  {#keys}WM          "
+      "key": "{#1}│  {#keys}󱂬 WM          "
     },
     {
       "type": "wmtheme",
-      "key": "{#1}│  {#keys}Theme       "
+      "key": "{#1}│  {#keys}󰉼 Theme       "
     },
     {
       "type": "display",
-      "key": "{#1}│  {#keys}Resolution  "
+      "key": "{#1}│  {#keys}󰹑 Resolution  "
     },
     {
       "type": "shell",
-      "key": "{#1}│  {#keys}Shell       "
+      "key": "{#1}│  {#keys}󰞷 Shell       "
     },
     {
       "type": "terminal",
-      "key": "{#1}│  {#keys}Terminal    "
+      "key": "{#1}│  {#keys}󰆍 Terminal    "
     },
     {
       "type": "terminalfont",
-      "key": "{#1}│  {#keys}Font        "
+      "key": "{#1}│  {#keys}󰛖 Font        "
     },
     {
       "type": "custom",
@@ -82,19 +82,19 @@
     },
     {
       "type": "cpu",
-      "key": "{#1}│  {#keys}CPU         "
+      "key": "{#1}│  {#keys}󰻠 CPU         "
     },
     {
       "type": "gpu",
-      "key": "{#1}│  {#keys}GPU         "
+      "key": "{#1}│  {#keys}󰢮 GPU         "
     },
     {
       "type": "memory",
-      "key": "{#1}│  {#keys}Memory      "
+      "key": "{#1}│  {#keys}󰍛 Memory      "
     },
     {
       "type": "disk",
-      "key": "{#1}│  {#keys}Disk (/)    ",
+      "key": "{#1}│  {#keys}󰋊 Disk (/)    ",
       "folders": "/"
     },
     {
